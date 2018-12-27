@@ -1,6 +1,33 @@
 # PORTFOLIO
 
 
+벤타스
+-------------
+[프로젝트 기간]
+- 2018-10 ~ 2018-12
+
+[프로젝트 내용] 
+- 고객이 안마의자를 사용하는데에 필요한 무선리모컨 기능을 제공하는 앱
+- SPP 통신으로 안마의자와 데이터 송/수신
+
+[프로젝트 인원] 
+- 안드로이드 1명
+
+[개발 환경]
+- Android studio, git, sourcetree, bitbucket, mac OS, kotlin, Java
+
+[담당 업무]
+- MVP 패턴을 적용
+- constraint-layout을 사용한 UI 구성
+- recyclerview사용
+- glide 를 이용해서 gif 애니메이션 적용
+- rxandroid2를 이용해서 데이터 처리
+- BluetoothManager 사용
+
+[프로젝트 성과]
+- 플레이스토어 런칭예정
+
+
 
 겟짤
 -------------
