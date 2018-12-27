@@ -296,9 +296,9 @@ VS740, US740
 [프로젝트 내용] 
 - 휴대폰 제조사인 팬택사의 국내 첫 스마트폰 런처앱 개발 참여
 
-![image1](./images/serius/image1)
-![image2](./images/serius/image2)
-![image3](./images/serius/image3)
+![image1](./images/serius/image1.png)
+![image2](./images/serius/image2.png)
+![image3](./images/serius/image3.png)
 
 [프로젝트 인원] 
 5명
