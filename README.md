@@ -104,6 +104,10 @@ AS서비스 앱
 - 기존 수기로 문서를 작성하여 업무를 진행하던 방식을 개선하기 위한 앱 개발
 - 서비스 리스트, 상세내역, 설치확인서, 사진첨부, 지도찾기, 약속 시간 문자, 공지사항, 서비스메뉴얼, 서비스 가격표, 업무일지, 보유 자재등 제공
 
+![image1](./images/service/image1.png)
+![image2](./images/service/image2.png)
+![image3](./images/service/image3.png)
+
 [프로젝트 인원] 
 - 안드로이드 1명
 
@@ -137,6 +141,8 @@ AS서비스 앱
 - 기존 수기로 문서장석되어 업무진행하던 방식을 개선하기위한 자사의 배송앱 개발
 - 배송리스트, 완료리스트, 상세내역, 설치확인서, 사진첨부, 지도찾기, 약속 시간 문자, 공지사항, 출고지시서, 스케쥴표(커스텀 달력) 등을 제공
 
+![image1](./images/shipping/image1.png)
+
 [프로젝트 인원] 
 - 안드로이드 1명
 
@@ -164,6 +170,10 @@ AS서비스 앱
 
 [프로젝트 내용] 
 - SK증권의 주식 앱인 주파수 운영 업무 진행
+
+![image1](./images/joopasoo/image1.png)
+![image2](./images/joopasoo/image2.png)
+![image3](./images/joopasoo/image3.png)
 
 [프로젝트 인원] 
 - 안드로이드 1명
@@ -227,6 +237,10 @@ KBS K 개발
 [프로젝트 내용] 
 - KBS 사의 방송앱 K 1, 2차 개발 진행
 
+![image1](./images/k/image1.png)
+![image2](./images/k/image2.png)
+![image3](./images/k/image3.png)
+
 [프로젝트 인원] 
 - 안드로이드 1명
 
@@ -281,6 +295,10 @@ VS740, US740
 
 [프로젝트 내용] 
 - 휴대폰 제조사인 팬택사의 국내 첫 스마트폰 런처앱 개발 참여
+
+![image1](./images/serius/image1)
+![image2](./images/serius/image2)
+![image3](./images/serius/image3)
 
 [프로젝트 인원] 
 5명
