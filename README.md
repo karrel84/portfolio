@@ -34,6 +34,6 @@
 - AdView 배너 적용
 
 [프로젝트 성과]
-- 플레이스토어 런칭(https://play.google.com/store/apps/details?id=karrel.com.getzzal)
+- [플레이스토어 런칭](https://play.google.com/store/apps/details?id=karrel.com.getzzal)
 - 한달 CSE비용 6달러 발생, 수입 0.3달러 발생
 
