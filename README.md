@@ -27,6 +27,36 @@
 [프로젝트 성과]
 - 플레이스토어 런칭예정
 
+아제라
+-------------
+[프로젝트 기간]
+- 2017-09 ~ 2017-11
+
+[프로젝트 내용] 
+- 고객이 안마의자를 사용하는데에 필요한 무선리모컨 기능을 제공하는 앱
+- SPP 통신으로 안마의자와 데이터 송/수신
+- HTTP 통신을 이용한 공기질 분석 데이터 표현(현재수치, 차트등)
+
+![image1](./images/agera/image1.png)
+![image2](./images/agera/image2.png)
+
+[프로젝트 인원] 
+- 안드로이드 1명
+
+[개발 환경]
+- Android studio, git, sourcetree, bitbucket, postman, mac OS, kotlin, Java
+
+[담당 업무]
+-  MVP 패턴을 적용
+- 공기질 데이터 출력 MPAndroidChart를 사용하여 처리
+- 주로 constraintlayout을 이용해서 레이아웃 구성 처리
+- android의 bluetooth chat sample을 래핑하여 블루투스 상태에 대한 인터페이스를 구현하고, 안드로이드 6.0이상부터 필요한 블루투스 권한 처리에 대한 사항 구현, BLE 검색과 클래식 검색 기능 제공한 라이브러리를 gitpack에 등록하여 사용
+- bluetooth spp 통신을 이용하여 수신된 데이터를 (대략 20바이트)를 비트단위로 잘라서 기능별로 behavior subject로 데이터 전달
+- flavor를 이용한 프로젝트 분기처리(리모컨 전용, 공기질분석 추가)
+- family font 적용(과거 typekit 사용)
+
+[프로젝트 성과]
+- 플레이스토어 런칭예정
 
 
 겟짤
