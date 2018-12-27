@@ -39,6 +39,7 @@
 
 ![image1](./images/agera/image1.png)
 ![image2](./images/agera/image2.png)
+![image3](./images/agera/image3.png)
 
 [프로젝트 인원] 
 - 안드로이드 1명
