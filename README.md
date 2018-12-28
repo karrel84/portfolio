@@ -12,6 +12,10 @@
 - 송신 데이터를 hex값을 입력받아 Realm DB를 이용하여 저장
 - [개인 블로그에 해당 내용 포스팅](http://karrel.tistory.com/15)
 
+![image1](./images/spptester/image1.png)
+![image2](./images/spptester/image2.png)
+![image3](./images/spptester/image3.png)
+
 [프로젝트 인원] 
 - 안드로이드 1명
 
