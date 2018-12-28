@@ -136,7 +136,7 @@ AS서비스 앱
 - YouTubeAndroidPlayerApi 사용 하여 제품 설치 영상 조회
 
 [프로젝트 성과]
-- 플레이스토어 런칭
+- [플레이스토어 런칭](https://play.google.com/store/apps/details?id=com.bodyfriend.service.debug)
 - 안정적인 앱 운영
 
 배송앱
