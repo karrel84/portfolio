@@ -168,7 +168,7 @@ AS서비스 앱
 - 고객주소를 Google Geocode api와 Naver Geocode api 를 이용하여 위도, 경도로 변환하여 구글맵에 마커로 표기
 
 [프로젝트 성과]
-- 플레이스토어 런칭
+- [플레이스토어 런칭](https://play.google.com/store/apps/details?id=com.bodyfriend.shippingsystem)
 - 안정적인 앱 운영
 
 주파수2
