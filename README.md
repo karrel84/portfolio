@@ -1,6 +1,34 @@
 # PORTFOLIO
 
 
+블루투스 SPP 테스터
+-------------
+[프로젝트 기간]
+- 2017-11 ~ 2017-12
+
+[프로젝트 내용] 
+- 회사의 spp통신을 이용한 프로젝트 진행중 송/수신 데이터의 확인을 위해 만든앱
+- 송/수신하는 데이터를 hex 값으로 볼수있도록 적용
+- 송신 데이터를 hex값을 입력받아 Realm DB를 이용하여 저장
+
+[프로젝트 인원] 
+- 안드로이드 1명
+
+[개발 환경]
+- Android studio, git, sourcetree, bitbucket, mac OS, java
+
+[담당 업무]
+- MVP 아키텍쳐 디자인 패턴 적용
+- constraint-layaout을 이용한 레이아웃 구성
+- recyclerview 로 아이템 출력
+- tedpermission을 이용한 블루투스 권한 처리
+- rx를 event bus로 이용
+- 하단 배너 adview 적용
+
+[프로젝트 성과]
+- 플레이스토어 런칭
+
+
 벤타스
 -------------
 [프로젝트 기간]
