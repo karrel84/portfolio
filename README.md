@@ -201,7 +201,7 @@ AS서비스 앱
     - 이동 및 드랍시 애니메이션 구현
 
 [프로젝트 성과]
-- 플레이스토어 런칭
+- [플레이스토어 런칭](https://play.google.com/store/apps/details?id=com.sks.android.neojoopasoo)
 - 2012, 2013 올해의 금융앱 대상 수상
 
 주파수1
