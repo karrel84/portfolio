@@ -26,7 +26,7 @@
 - 하단 배너 adview 적용
 
 [프로젝트 성과]
-- 플레이스토어 런칭
+- [플레이스토어 런칭](https://play.google.com/store/apps/details?id=com.karrel.bluetoothsample)
 
 
 벤타스
