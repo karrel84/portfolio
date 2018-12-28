@@ -269,7 +269,7 @@ KBS K 개발
 - 로그인
 
 [프로젝트 성과]
-- 플레이스토어 런칭
+- [플레이스토어 런칭](https://play.google.com/store/apps/details?id=kr.co.kbs.kplayer)
 - 10만 이용자 사용
 
 
