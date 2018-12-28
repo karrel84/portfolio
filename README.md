@@ -10,6 +10,13 @@
 - 고객이 안마의자를 사용하는데에 필요한 무선리모컨 기능을 제공하는 앱
 - SPP 통신으로 안마의자와 데이터 송/수신
 
+![image1](./images/ventars/image1.png)
+![image3](./images/ventars/image3.png)
+![image4](./images/ventars/image4.png)
+![image5](./images/ventars/image5.png)
+![image6](./images/ventars/image6.png)
+![image7](./images/ventars/image7.png)
+
 [프로젝트 인원] 
 - 안드로이드 1명
 
