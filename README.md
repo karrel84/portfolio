@@ -1,80 +1,4 @@
-# PORTFOLIO
-
-사내예약
--------------
-[프로젝트 기간]
-- 2016-04 ~ 2016-05
-
-[프로젝트 내용] 
-- 사내에서 제공하는 복지시설 이용을 위한 앱
-- 헤어, 네일샵, 의원, 반찬등 예약 기능
-- 사내 식당 정보 제공
-- 이용금액 조회
-- 층별 공기질분석 조회
-
-![image1](./images/total/image1.png)
-![image2](./images/total/image2.png)
-![image3](./images/total/image3.png)
-![image4](./images/total/image4.png)
-![image5](./images/total/image5.png)
-![image6](./images/total/image6.png)
-
-[프로젝트 인원] 
-- 안드로이드 1명
-
-[개발 환경]
-- Android studio, git, sourcetree, bitbucket, mac OS, java, postman
-
-[담당 업무]
-- MVP 아키텍쳐 디자인 패턴 적용
-- gson을 이용한 데이터 파싱
-- auil을 이용한 이미지 처리
-- 버터나이프 사용
-- rxjava2 사용
-- tedbottompociker 사용
-- firebase crashlytics 사용
-- volley를 이용한 html 통신
-- photoview 를 이용한 상세화면 구성
-- pageindicatorview 인디케이터 표기
-- strokeTextView 사용
-- DatePicker를 사용해서 예약 일자 지정
-- retrofit를 이용한  http 통신
-
-[프로젝트 성과]
-- [플레이스토어 런칭](https://play.google.com/store/apps/details?id=bodyfriend.welfare)
-
-블루투스 SPP 테스터
--------------
-[프로젝트 기간]
-- 2017-11 ~ 2017-12
-
-[프로젝트 내용] 
-- 회사의 spp통신을 이용한 프로젝트 진행중 송/수신 데이터의 확인을 위해 만든앱
-- 송/수신하는 데이터를 hex 값으로 볼수있도록 적용
-- 송신 데이터를 hex값을 입력받아 Realm DB를 이용하여 저장
-- [개인 블로그에 해당 내용 포스팅](http://karrel.tistory.com/15)
-
-![image1](./images/spptester/image1.png)
-![image2](./images/spptester/image2.png)
-![image3](./images/spptester/image3.png)
-
-[프로젝트 인원] 
-- 안드로이드 1명
-
-[개발 환경]
-- Android studio, git, sourcetree, bitbucket, mac OS, java
-
-[담당 업무]
-- MVP 아키텍쳐 디자인 패턴 적용
-- constraint-layaout을 이용한 레이아웃 구성
-- recyclerview 로 아이템 출력
-- tedpermission을 이용한 블루투스 권한 처리
-- rx를 event bus로 이용
-- 하단 배너 adview 적용
-
-[프로젝트 성과]
-- [플레이스토어 런칭](https://play.google.com/store/apps/details?id=com.karrel.bluetoothsample)
-
+# 바디프랜드(2015.04 ~ 현재)
 
 벤타스
 -------------
@@ -141,41 +65,48 @@
 [프로젝트 성과]
 - 플레이스토어 런칭예정
 
-
-겟짤
+사내예약
 -------------
 [프로젝트 기간]
-- 2018-08 ~ 2018-09
+- 2016-04 ~ 2016-05
 
-[프로젝트 내용]
-- 카톡중에 어울리는 짤을 빠르게 전송하기위한 목적의 앱
-- 상단에 검색바가 있고 검색어를 기입하여 기입하여 검색하면 관련된 google CSE에서 이미지 정보를 받아서 노출
-- 상세보기, 다운받기, 카톡으로 전송하기 등의 기능 제공
+[프로젝트 내용] 
+- 사내에서 제공하는 복지시설 이용을 위한 앱
+- 헤어, 네일샵, 의원, 반찬등 예약 기능
+- 사내 식당 정보 제공
+- 이용금액 조회
+- 층별 공기질분석 조회
 
-![image1](./images/getzzal/image1.png)
-![image2](./images/getzzal/image2.png)
-![image3](./images/getzzal/image3.png)
+![image1](./images/total/image1.png)
+![image2](./images/total/image2.png)
+![image3](./images/total/image3.png)
+![image4](./images/total/image4.png)
+![image5](./images/total/image5.png)
+![image6](./images/total/image6.png)
 
-[프로젝트 인원]
-- 안드로이드 개발자 총 1명
+[프로젝트 인원] 
+- 안드로이드 1명
 
-[본인 역할]
-- rx를 이용한 mvvm아키텍처 패턴 적용
-- constraint-layaout을 이용한 레이아웃 구성
-- gson 을 이용한 데이터 객체 생성
-- recyclerview 로 아이템 출력
-- glide 로 이미지 출력
-- tedpermission을 이용한 권한 처리
-- cardview 를 사용하여 아이템 뷰 구현
-- 이미지를 클릭하면 PhotoView(open source)를 이용하여 상세 이미지 노출
-- 처음에는 google image사이트에서 스크랩핑을 해서 이미지를 가져왓으나 후에 google CSE서비스를 이용
-- okhttp3와 rx를 연동해서 데이터 처리
-- Junit4를 이용한 테스트 코드 작성
-- AdView 배너 적용
+[개발 환경]
+- Android studio, git, sourcetree, bitbucket, mac OS, java, postman
+
+[담당 업무]
+- MVP 아키텍쳐 디자인 패턴 적용
+- gson을 이용한 데이터 파싱
+- auil을 이용한 이미지 처리
+- 버터나이프 사용
+- rxjava2 사용
+- tedbottompociker 사용
+- firebase crashlytics 사용
+- volley를 이용한 html 통신
+- photoview 를 이용한 상세화면 구성
+- pageindicatorview 인디케이터 표기
+- strokeTextView 사용
+- DatePicker를 사용해서 예약 일자 지정
+- retrofit를 이용한  http 통신
 
 [프로젝트 성과]
-- [플레이스토어 런칭](https://play.google.com/store/apps/details?id=karrel.com.getzzal)
-- 한달 CSE비용 6달러 발생, 수입 0.3달러 발생
+- [플레이스토어 런칭](https://play.google.com/store/apps/details?id=bodyfriend.welfare)
 
 AS서비스 앱
 -------------
@@ -232,7 +163,6 @@ AS서비스 앱
 [개발 환경]
 - Android studio, git, sourcetree, bitbucket, postman, mac OS, kotlin
 
-
 [담당 업무]
 - 배송리스트에 SwipeRefreshLayout 를 이용해서 갱신처리
 - 리스트에서 retrofit2와 rx 를 이용해서 데이터 출력
@@ -245,6 +175,8 @@ AS서비스 앱
 [프로젝트 성과]
 - [플레이스토어 런칭](https://play.google.com/store/apps/details?id=com.bodyfriend.shippingsystem)
 - 안정적인 앱 운영
+
+#SK증권(2012.04 ~ 2015.04)
 
 주파수2
 -------------
@@ -295,6 +227,8 @@ AS서비스 앱
 
 [담당 업무]
 - 신규로 반영되는 주식 정책에 대한 앱 반영
+
+#첼루호(2011.06 - 2012.01)
 
 증강현실 모듈 개발
 -------------
@@ -347,6 +281,7 @@ KBS K 개발
 - [플레이스토어 런칭](https://play.google.com/store/apps/details?id=kr.co.kbs.kplayer)
 - 10만 이용자 사용
 
+#이노필리아(2009.07 ~ 2011.01)
 팬택 시리우스 런처앱 개발 
 -------------
 [프로젝트 기간]
@@ -377,3 +312,72 @@ KBS K 개발
 
 [프로젝트 성과]
 - 팬택 시리우스폰 출시
+
+
+#펫 프로젝트
+블루투스 SPP 테스터
+-------------
+[프로젝트 기간]
+- 2017-11 ~ 2017-12
+
+[프로젝트 내용] 
+- 회사의 spp통신을 이용한 프로젝트 진행중 송/수신 데이터의 확인을 위해 만든앱
+- 송/수신하는 데이터를 hex 값으로 볼수있도록 적용
+- 송신 데이터를 hex값을 입력받아 Realm DB를 이용하여 저장
+- [개인 블로그에 해당 내용 포스팅](http://karrel.tistory.com/15)
+
+![image1](./images/spptester/image1.png)
+![image2](./images/spptester/image2.png)
+![image3](./images/spptester/image3.png)
+
+[프로젝트 인원] 
+- 안드로이드 1명
+
+[개발 환경]
+- Android studio, git, sourcetree, bitbucket, mac OS, java
+
+[담당 업무]
+- MVP 아키텍쳐 디자인 패턴 적용
+- constraint-layaout을 이용한 레이아웃 구성
+- recyclerview 로 아이템 출력
+- tedpermission을 이용한 블루투스 권한 처리
+- rx를 event bus로 이용
+- 하단 배너 adview 적용
+
+[프로젝트 성과]
+- [플레이스토어 런칭](https://play.google.com/store/apps/details?id=com.karrel.bluetoothsample)
+
+겟짤
+-------------
+[프로젝트 기간]
+- 2018-08 ~ 2018-09
+
+[프로젝트 내용]
+- 카톡중에 어울리는 짤을 빠르게 전송하기위한 목적의 앱
+- 상단에 검색바가 있고 검색어를 기입하여 기입하여 검색하면 관련된 google CSE에서 이미지 정보를 받아서 노출
+- 상세보기, 다운받기, 카톡으로 전송하기 등의 기능 제공
+
+![image1](./images/getzzal/image1.png)
+![image2](./images/getzzal/image2.png)
+![image3](./images/getzzal/image3.png)
+
+[프로젝트 인원]
+- 안드로이드 개발자 총 1명
+
+[본인 역할]
+- rx를 이용한 mvvm아키텍처 패턴 적용
+- constraint-layaout을 이용한 레이아웃 구성
+- gson 을 이용한 데이터 객체 생성
+- recyclerview 로 아이템 출력
+- glide 로 이미지 출력
+- tedpermission을 이용한 권한 처리
+- cardview 를 사용하여 아이템 뷰 구현
+- 이미지를 클릭하면 PhotoView(open source)를 이용하여 상세 이미지 노출
+- 처음에는 google image사이트에서 스크랩핑을 해서 이미지를 가져왓으나 후에 google CSE서비스를 이용
+- okhttp3와 rx를 연동해서 데이터 처리
+- Junit4를 이용한 테스트 코드 작성
+- AdView 배너 적용
+
+[프로젝트 성과]
+- [플레이스토어 런칭](https://play.google.com/store/apps/details?id=karrel.com.getzzal)
+- 한달 CSE비용 6달러 발생, 수입 0.3달러 발생
