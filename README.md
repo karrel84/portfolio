@@ -384,3 +384,24 @@ KBS K 개발
 [프로젝트 성과]
 - [플레이스토어 런칭](https://play.google.com/store/apps/details?id=karrel.com.getzzal)
 - 한달 CSE비용 6달러 발생, 수입 0.3달러 발생
+
+레이나
+---
+[프로젝트 기간]
+- 2018-04 ~ 2018-05
+
+[프로젝트 내용] 
+- 카카오톡과  다이얼로그플로우를 이용한 개인 채팅봇 제작
+- 오늘 날씨, 한강수온, 오늘 점심메뉴(사내식당)등에 대한 정보 제공
+
+[프로젝트 인원] 
+- 안드로이드 1명
+
+[개발 환경]
+- Android studio, git, sourcetree, bitbucket, mac OS, java, postman, dialogfrow, cafe24
+
+[담당 업무]
+- gson을 이용한 데이터파싱
+- okhttp3 사용 
+- ai.api 사용
+- fcm 적용
