@@ -394,6 +394,9 @@ KBS K 개발
 - 카카오톡과  다이얼로그플로우를 이용한 개인 채팅봇 제작
 - 오늘 날씨, 한강수온, 오늘 점심메뉴(사내식당)등에 대한 정보 제공
 
+![image1](./images/reina/screen1.png)
+![image2](./images/reina/screen2.png)
+
 [프로젝트 인원] 
 - 안드로이드 1명
 
