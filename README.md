@@ -1,3 +1,46 @@
+# 하이퍼커넥트(2019.04 ~ 현재)
+
+VANA
+-------------
+[프로젝트 기간]
+- 2019-04 ~ 2019-11
+
+[프로젝트 내용] 
+- WebRTC와 Video를 이용한 데이팅앱
+
+[프로젝트 인원] 
+- 안드로이드 2명
+
+[개발 환경]
+- Android studio, git, github, sourcetree, mac OS, kotlin, JIRA, Notion, Slack
+
+[사용 기술]
+- RxJava2
+- mvrx
+- Epoxy
+- Koin
+- Exoplayer
+- Timber
+- Joda -Time
+- Fresco
+- Facebook login
+- Snapchat login
+- Pubnub ("com.pubnub:pubnub-gson:4.21.0")
+- Stetho ("com.facebook.stetho:stetho-okhttp3:1.5.1")
+- transcoder ("net.ypresto.androidtranscoder:android-transcoder")
+- image crop ("com.github.yalantis:ucrop")
+- Easing anim library ("com.daimajia.easing:library:2.1@aar")
+- Web RTC
+- Billing v2
+- Lottie
+- Crashlytics
+- rootingchecker ("com.scottyab:rootbeer-lib")
+- Chuck
+- CameraX
+
+
+
+
 # 바디프랜드(2015.04 ~ 현재)
 
 벤타스
